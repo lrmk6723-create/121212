@@ -11,4 +11,4 @@ Expense Tracker — это GUI-приложение для отслеживан�
 1. Убедитесь, что установлен Python 3.6+.
 2. Запустите файл `expense_tracker.py`:
    ```bash
-   python expense_tracker.py
+   expense_tracker.py
